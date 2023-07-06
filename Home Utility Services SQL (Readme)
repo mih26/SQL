@@ -1,0 +1,6 @@
+A company provides various utility services like electric repair, plumbing, insect/mouse control etc. The company has a pool of workers in agreement based on working skills and experience in certain work areas. Then A worker is to be inserted with skills/experience using procedure with DDL and DML.
+
+Some features:
+ Data entry, modification through store procedures
+ Create view, Index to extract data.
+ Use User Define Functions, triggers, sub-query, CTE.
